@@ -1,0 +1,14 @@
+{
+  "name": "kit",
+  "version": "0.0.1",
+  "description": "Collection of small tools",
+  "main": "index.js",
+   "author": {
+    "name": "Dmitry Melnikov",
+    "email": "d.dash.mv@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^3.9.7"
+  }
+}
