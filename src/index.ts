@@ -57,6 +57,9 @@ function valueOrZero(value: number): number {
   return value;
 }
 
+/**
+ * Function to round number to whole.
+ */
 function makeRound(value: number): number {
   return Math.round(value * 100);
 }
