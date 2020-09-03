@@ -3,12 +3,17 @@
   "version": "0.0.1",
   "description": "Collection of small tools",
   "main": "index.js",
-   "author": {
+  "author": {
     "name": "Dmitry Melnikov",
     "email": "d.dash.mv@gmail.com"
   },
   "license": "ISC",
   "dependencies": {
+    "ramda": "^0.27.1",
     "typescript": "^3.9.7"
+  },
+  "devDependencies": {
+    "@types/node": "^14.6.3",
+    "@types/ramda": "^0.27.14"
   }
 }
